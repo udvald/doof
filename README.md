@@ -38,7 +38,7 @@
   {
     "question": "Энэ ямар хоол вэ?",
     "image_url": "https://github.com/udvald/doof/blob/main/dorayaki.jpg",
-    "options": ["бин", "дораяки", "бялуу", аяга бялуу"],
+    "options": ["бин", "дораяки", "бялуу", "аяга бялуу"],
     "answer": "дораяки"
   },
   {
