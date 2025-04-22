@@ -20,13 +20,13 @@
   {
     "question": "Энэ ямар хоол вэ?",
     "image_url": "https://github.com/udvald/doof/blob/main/tempura.jpg",
-    "options": ["темпура", "шарсан тахиа", "карааге","тонкацу"],
+    "options": ["темпура", "шарсан тахиа", "карааге", "тонкацу"],
     "answer": "темпура"
   },
   {
     "question": "Энэ ямар хоол вэ?",
     "image_url": "https://github.com/udvald/doof/blob/main/tonkatsu.jpg",
-    "options": ["тонкацу", "тахианы кацу", "карааге","темпура"],
+    "options": ["тонкацу", "тахианы кацу", "карааге", "темпура"],
     "answer": "тонкацу"
   },
   {
