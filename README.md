@@ -16,7 +16,7 @@
     "image_url": "https://github.com/udvald/doof/blob/main/sashimi.jpg",
     "options": ["суши", "сашими", "инари", "нигири"],
     "answer": "сашими"
-  },
+  },  
   {
     "question": "Энэ ямар хоол вэ?",
     "image_url": "https://github.com/udvald/doof/blob/main/tempura.jpg",
